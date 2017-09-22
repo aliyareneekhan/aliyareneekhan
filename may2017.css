@@ -332,7 +332,7 @@ section .paragraph-link a:visited
     text-align: center;
     position: relative;
     overflow: scroll;
-    color: white;
+    color: black;
     clear: both;
 /*    background-image: -webkit-linear-gradient(#A7B4F1, #023EFA);*/
 }
